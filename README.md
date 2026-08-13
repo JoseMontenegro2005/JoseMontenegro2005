@@ -1,4 +1,4 @@
-# ¡Hola! Soy José Luis Montenegro Guzmán 👋
+# ¡Hola! Soy José Luis Montenegro Guzmán 
 
 Estudioso de la tecnología, apasionado por el desarrollo web y la optimización de procesos mediante Inteligencia Artificial. Actualmente cursando el décimo semestre de **Ingeniería de Sistemas** en la Corporación Universitaria Comfacauca (Unicomfacauca), Colombia.
 
@@ -9,7 +9,7 @@ Estudioso de la tecnología, apasionado por el desarrollo web y la optimización
 * **Lenguajes & Frameworks:** JavaScript, Python, Flask, React.js, Vue.js
 * **Bases de Datos:** MySQL, PostgreSQL
 * **Herramientas & DevOps:** Git, Docker, Postman, Power BI, Power Query
-* **Áreas de Interés:** Desarrollo Full Stack, Arquitectura de APIs, Automatización e Inteligencia Artificial
+* **Áreas de Interés:** Desarrollo Web, Arquitectura de APIs, Automatización e Inteligencia Artificial
 
 ---
 
@@ -25,7 +25,7 @@ Estudioso de la tecnología, apasionado por el desarrollo web y la optimización
 ### 📊 Estadísticas y Conectividad
 
 <p align="left">
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://linkedin.com/in/jose-luis-montenegro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:josemontenegro@unicomfacauca.edu.co">
