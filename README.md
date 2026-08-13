@@ -15,7 +15,7 @@ Estudioso de la tecnología, apasionado por el desarrollo web y la optimización
 
 ### Proyectos y Trabajos Destacados
 
-* **[TourFer](https://github.com/JoseMontenegro2005/TourFer)** *(Proyecto Académico)*  
+* **[TourFer](https://github.com/JoseMontenegro2005/TourFer_)** *(Proyecto Académico)*  
   Desarrollo de un sistema de reserva de visitas y tours basado en una arquitectura de microservicios. Implementación de Flask, Vue.js y MySQL para la gestión de catálogos y consultas eficientes.
 * **[AP4CF - Planificación Automatizada para Mitigación de Huella de Carbono](https://github.com/AP4CF/Repository)** *(Investigación)*  
   Coautor de una prueba de concepto (PoC) enfocada en la reducción de gases de efecto invernadero en el sector agrícola utilizando el planificador ENHSP-20 y modelado en PDDL 2.1.
